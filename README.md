@@ -56,7 +56,9 @@ Ratings.dat
  
 
 Users.dat
-Format -  UserID::Gender::Age::Occupation::Zip-code
+
+    Format -  UserID::Gender::Age::Occupation::Zip-code
+   
 | Field 	|            Description |
 | --- | --- |
 | UserID 	|          Unique identification for each user |
@@ -110,7 +112,8 @@ All demographic information is provided voluntarily by the users and is not chec
 | 20 	|       "writer” |
 
 Movies.dat
-Format - MovieID::Title::Genres
+
+    Format - MovieID::Title::Genres
 
 | Field 	|           Description |
 | --- | --- |
