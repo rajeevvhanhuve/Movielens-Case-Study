@@ -44,10 +44,10 @@ Ratings.dat
 
 | Field 	|        Description |
 | --- | --- |
-| UserID 	|      Unique identification for each user |
-| MovieID 	|      Unique identification for each movie |
-| Rating 	|      User rating for each movie |
-| Timestamp 	|    Timestamp generated while adding user review |
+| UserID 	|  Unique identification for each user |
+| MovieID 	|  Unique identification for each movie |
+| Rating 	|  User rating for each movie |
+| Timestamp |  Timestamp generated while adding user review |
 
 
 - UserIDs range between 1 and 6040 
@@ -61,13 +61,13 @@ Users.dat
 
     Format -  UserID::Gender::Age::Occupation::Zip-code
    
-| Field 	|            Description |
+| Field 	|  Description |
 | --- | --- |
-| UserID 	|          Unique identification for each user |
-| Genere 	|          Category of each movie |
-| Age 	|              User’s age |
-| Occupation 	|      User’s Occupation |
-| Zip-code 	|        Zip Code for the user’s location |
+| UserID 	| Unique identification for each user |
+| Genere 	| Category of each movie |
+| Age 	| User’s age |
+| Occupation |User’s Occupation |
+| Zip-code 	| Zip Code for the user’s location |
 
 
 
@@ -117,11 +117,11 @@ Movies.dat
 
     Format - MovieID::Title::Genres
 
-| Field 	|           Description |
+| Field 	| Description |
 | --- | --- |
-| MovieID 	|         Unique identification for each movie |
-| Title 	|           A title for each movie |
-| Genres 	|         Category of each movie |
+| MovieID 	| Unique identification for each movie |
+| Title 	| A title for each movie |
+| Genres | Category of each movie |
 
 
 Titles are identical to titles provided by the IMDB (including year of release)
