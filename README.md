@@ -1,4 +1,4 @@
-# Data Science with Python/Project 2
+# Data Science with Python: Project 2
 
 ### Movielens Case Study
 
