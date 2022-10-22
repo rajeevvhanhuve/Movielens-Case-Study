@@ -1,6 +1,4 @@
-# Data Science with Python: Project 2
-
-### Movielens Case Study
+## Movielens Case Study
 
 DESCRIPTION
 
@@ -147,6 +145,8 @@ Genres are pipe-separated and are selected from the following genres:
 
 - Some MovieIDs do not correspond to a movie due to accidental duplicate entries and/or test entries
 - Movies are mostly entered by hand, so errors and inconsistencies may exist
+
+Please download the dataset from [here](https://github.com/Simplilearn-Edu/Data-Science-with-Python-Project-One)
 
 Good Luck!!
  
